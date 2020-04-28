@@ -17,4 +17,12 @@ Foi realizada uma breve análise exploratória dos dados visando responder os se
 
 Após a análise exploratória, os resultados foram salvos no cloud no MongoDB e conectados ao Heroku para construção do dashboard no metabase.
 
+![mongo](https://user-images.githubusercontent.com/56939260/80532165-17fdaf80-8972-11ea-8b90-cea8b0911a84.png)
+
+![heroku](https://user-images.githubusercontent.com/56939260/80532196-28ae2580-8972-11ea-8b4b-6578baa95e40.png)
+
+![metabase2](https://user-images.githubusercontent.com/56939260/80532239-3499e780-8972-11ea-97e0-e88769aeab14.png)
+
+![metabase 3](https://user-images.githubusercontent.com/56939260/80532254-39f73200-8972-11ea-8427-0b25eab29eb0.png)
+
 ![metabase](https://user-images.githubusercontent.com/56939260/80529377-c5ba8f80-896d-11ea-90c1-21b18238d0af.png)
