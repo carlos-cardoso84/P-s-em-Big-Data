@@ -15,8 +15,10 @@ Foi realizada uma breve análise exploratória dos dados visando responder os se
 ### 8. Em relação aos valores gastos com passagens, qual a porcentagem de valores gastos com cada meio utilizado?
 ### 9. Qual foi o tipo de pagamento mais realizado?
 
-Após a análise exploratória, os resultados foram salvos no cloud no [![mongo](https://user-images.githubusercontent.com/56939260/80532165-17fdaf80-8972-11ea-8b90-cea8b0911a84.png)](https://cloud.mongodb.com) e conectados ao [![heroku](https://user-images.githubusercontent.com/56939260/80532196-28ae2580-8972-11ea-8b4b-6578baa95e40.png)](https://dashboard.heroku.com/apps) para construção do dashboard no metabase.
+Após a análise exploratória, os resultados foram salvos no cloud no <img src="https://user-images.githubusercontent.com/56939260/80532165-17fdaf80-8972-11ea-8b90-cea8b0911a84.png"  width="50" height="50"> e conectados  ao <img src = "https://user-images.githubusercontent.com/56939260/80532196-28ae2580-8972-11ea-8b4b-6578baa95e40.png" width="40" height="60"> para construção do dashboard no metabase.
 
+
+## O DASHBOARD
 
 
 ![metabase2](https://user-images.githubusercontent.com/56939260/80532239-3499e780-8972-11ea-97e0-e88769aeab14.png)
