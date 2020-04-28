@@ -1,9 +1,9 @@
 # Viagens à serviço em 2019
-Projeto Criado como parte integrante da disciplina Técnicas de Processamento de Dados em Big Data da pós graduação em Big Data do Senac - Ribeirão Preto.
+Projeto criado como parte integrante da disciplina Técnicas de Processamento de Dados em Big Data da Pós Graduação em Big Data do Senac de Ribeirão Preto.
 
-A base escolhida para a análise está disponível em www.portaldatransparencia.gov.br/download-de-dados/viagens.
+A base escolhida para o desenvolvimento deste projeto está disponível em www.portaldatransparencia.gov.br/download-de-dados/viagens. Ela traz informações sobre as viagens realizadas à serviço no Brasil durante o ano de 2019 e está dividida em 4 arquivos. Para maiores detalhes, basta acessar o link disponibilizado.
 
-Foi realizada uma breve análise exploratória dos dados visando responder os seguintes questionamentos:
+Inicialmente foi realizada uma breve análise exploratória dos dados visando responder os seguintes questionamentos:
 
 ### 1. Quais servidores mais viajaram em 2019?
 ### 2. E em relação ao valores, quais servidores mais gastaram com viagens em 2019?  Os servidores que mais viajam são aqueles que mais gastam?
@@ -15,10 +15,12 @@ Foi realizada uma breve análise exploratória dos dados visando responder os se
 ### 8. Em relação aos valores gastos com passagens, qual a porcentagem de valores gastos com cada meio utilizado?
 ### 9. Qual foi o tipo de pagamento mais realizado?
 
-Após a análise exploratória, os resultados foram salvos no cloud no <img src="https://user-images.githubusercontent.com/56939260/80532165-17fdaf80-8972-11ea-8b90-cea8b0911a84.png"  width="50" height="50"> e conectados  ao <img src = "https://user-images.githubusercontent.com/56939260/80532196-28ae2580-8972-11ea-8b4b-6578baa95e40.png" width="40" height="60"> para construção do dashboard no metabase.
+Após essa análise exploratória, os resultados foram salvos no cloud no <img src="https://user-images.githubusercontent.com/56939260/80532165-17fdaf80-8972-11ea-8b90-cea8b0911a84.png"  width="50" height="50"> e conectados  ao <img src = "https://user-images.githubusercontent.com/56939260/80532196-28ae2580-8972-11ea-8b4b-6578baa95e40.png" width="40" height="60"> para a construção do dashboard no metabase.
 
 
 ## O DASHBOARD
+
+Segue algumas partes do dashboard.
 
 
 ![metabase2](https://user-images.githubusercontent.com/56939260/80532239-3499e780-8972-11ea-97e0-e88769aeab14.png)
